@@ -7,16 +7,16 @@
 
 ## Proposed Method
 
-- Network structure
-   <img src="figs/network.png" width="800px"/>
-- Performance on JPEG quality factor estimation
-   <img src="figs/result1.png" width="600px"/>
-- Performance on JPEG degradation detection
+- Network structure<br/>
+   <img src="figs/network.png" width="600px"/>
+- Performance on JPEG quality factor estimation<br/>
+   <img src="figs/result1.png" width="500px"/>
+- Performance on JPEG degradation detection<br/>
    <img src="figs/result2.png" width="400px"/>
-- Detection of JPEG-compressed region in a fake image
-   <img src="figs/result3.png" width="800px"/>
-- JPEG quality assessment for Set14
-  <img src="figs/result4.png" width="800px"/>
+- Detection of JPEG-compressed region in a fake image<br/>
+   <img src="figs/result3.png" width="600px"/>
+- JPEG quality assessment for Set14<br/>
+  <img src="figs/result4.png" width="600px"/>
 
 ## Abstract
 
